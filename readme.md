@@ -1,0 +1,9 @@
+| get    | /stories     |
+| ------ | ------------ |
+| get    | /comments    |
+| get    | /stories/:id |
+| --     | --           |
+| post   | /comments    |
+| delete | /stories:id  |
+| --     | --           |
+| get    | /home        |

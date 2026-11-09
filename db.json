@@ -1,132 +1,91 @@
 {
-  "companies": [
-    {
-      "id": "1234",
-      "name": "Nintendo",
-      "location": "Japan",
-      "foundedYear": "1889"
-    },
-    {
-      "id": "2345",
-      "name": "Microsoft",
-      "location": "US",
-      "foundedYear": "1970"
-    },
-    {
-      "id": "3456",
-      "name": "Sony",
-      "location": "Japan",
-      "foundedYear": "1946"
-    },
-    {
-      "id": "4567",
-      "name": "Sega",
-      "location": "Japan",
-      "foundedYear": "1960"
-    },
-    {
-      "id": "5678",
-      "name": "Capcom",
-      "location": "Japan",
-      "foundedYear": "1979"
-    },
-    {
-      "id": "6789",
-      "name": "Ubisoft",
-      "location": "France",
-      "foundedYear": "1986"
-    },
-    {
-      "id": "7890",
-      "name": "Electronic Arts",
-      "location": "US",
-      "foundedYear": "1982"
-    }
-  ],
-  "games": [
+  "stories": [
     {
       "id": "ABCD",
-      "title": "The Legend of Zelda: Ocarine of Time Remake",
-      "category": "adventure",
-      "rating": null,
-      "companyId": "1234"
+      "title": "Echoes of the Forgotten Valley",
+      "author": "Elena Vance",
+      "genre": "adventure",
+      "content": "For three centuries, imperial cartographers simply marked the northern rift as 'terra incognita'—an empty expanse of jagged granite and perpetual fog. But Silas was not a mapmaker; he was a thief of histories, and he had a stolen brass compass that spun in backward loops whenever he approached the rift. When he finally stepped into the misty lowlands, the absolute silence of the wilderness shattered in a way that made his hair stand on end. The valley didn't just have an echo; it held a perfect, flawless memory of sound. As his boot crushed a brittle twig, the sound bounced back to him not as a snap, but as a chorus of voices whispering in a dialect dead for a thousand years. Realizing the atmospheric anomaly, Silas spoke aloud, testing the air: 'Is anyone there?' Seconds later, a wave of sound rolled back from the cliffs—not his own voice, but the panicked shouts of an ancient legion, followed by the unmistakable, terrifying roar of something massive shifting beneath the earth. The echoes were a localized timeline, repeating the final moments of travelers who had vanished here centuries ago. Instead of turning back, Silas used the sonic ghosts as a guide. When the echo of a collapsing wall rang through the fog to his left, he ducked right. When a phantom scream echoed ahead, he waited. Following the breadcrumbs of ancient noise, he climbed a steep ridge until the mist suddenly evaporated under a harsh noon sun. There, nestled within the hollowed-out chest of a dead mountain, lay a colossal, vine-draped ruin. Massive quartz spires caught the light, humming with a low, vibrational frequency that resonated deep inside his chest. He had found it: the cradle of the first architects, preserved entirely by a barrier of sound.",
+      "likes": 1420,
+      "companyId": "1234",
+      "commentIds": ["USER_CMT_01", "USER_CMT_04"]
     },
     {
       "id": "EFGH",
-      "title": "Super Mario Odyssey",
-      "category": "adventure",
-      "rating": null,
-      "companyId": "1234"
+      "title": "The Cloud Sailor's Journey",
+      "author": "Marcus Sterling",
+      "genre": "adventure",
+      "content": "Aria grew up on a landlocked dust farm, where the only water came from deep-well vaporizers and the sky was a miserable, unchanging gray. She spent her youth looking up at the high-altitude commerce lanes, watching the silver hulls of the trade fleets sail across the troposphere. Now, at twenty-four, she was finally standing at the helm of her own vessel—though 'vessel' was a generous term for a rickety wooden skyship held together by rusted iron brackets and prayers. The engine groaned a mechanical death rattle as she steered the craft directly into a violent thermal updraft. The crew, consisting of a cynical mechanic named Jax and a stray three-eyed cat, clung to the deck plates as the ship pitched violently at a forty-five-degree angle. 'We're going to tear the canvas!' Jax yelled over the roar of the wind, his hands white on the stabilizer lever. But Aria refused to throttle back. She knew the weather patterns of the lower stratosphere; this storm was a barrier designed by nature to hide what lay above. With a terrifying crack, the main sail tore slightly, but the momentum was already theirs. The skyship punched through the ceiling of the dark thunderclouds, erupting into a world of blinding, pristine sunlight. The violent shaking stopped instantly, replaced by a eerie, majestic calm. Below them lay an infinite ocean of rolling white mist, stretching out to a razor-sharp horizon. But it was what lay directly ahead that made Aria drop her hands from the steering wheel. Floating seamlessly among the clouds was a sprawling island of green fields, ancient waterfalls cascading into the open air, and ivory towers that caught the sun like diamonds. It was Aethelgard, the legendary sky-isle of her ancestors, completely untouched by the industrial ruin of the world below.",
+      "likes": 985,
+      "companyId": "1234",
+      "commentIds": ["USER_CMT_02"]
     },
     {
       "id": "IJKL",
-      "title": "Mario Kart 8 Deluxe",
-      "category": "racing",
-      "rating": null,
-      "companyId": "1234"
+      "title": "Neon Velocity",
+      "author": "Jaxson Reed",
+      "genre": "racing",
+      "content": "The atmosphere inside the cockpit smelled of ozone, synthetic leather, and adrenaline. Rin checked her dashboard diagnostics; the temperature of her plasma thrusters was already operating in the dangerous red zone, and the race hadn't even begun. Around her, eleven other anti-gravity interceptors hovered in the starting grid, their hulls vibrating with low-frequency humming. Outside the transparent canopy, the cybernetic skyline of Neo-Tokyo exploded in a chaotic neon display of holographic advertisements and corporate megastructures. When the countdown bar flashed from amber to electric blue, Rin slammed her foot down. The acceleration was brutal, crushing her back into the pilot's seat as her car surged forward at three hundred miles per hour. The racetrack was a transparent tube of polarized light woven seamlessly between the skyscrapers of the upper metropolis. Rin shifted gears, her cybernetic right arm clicking into place as it synchronized directly with the vehicle's onboard AI. She took the first vertical loop at an angle that defied gravity, passing two competitors on the outside wall where the traction was thinnest. The sheer velocity blurred the city below into streaks of hot pink and neon turquoise. As they approached the final straightaway—a terrifying three-mile vertical drop down the face of the Arasaka Tower—a rival racer sideswiped her rear bumper. The interceptor fishtailed, sparks flying from the kinetic shielding. Rin didn't brake; instead, she overcharged the left repulsor, using the wall itself to bounce her vehicle straight ahead. With a deafening roar, she crossed the plasma finish line a fraction of a second ahead of the pack, her brakes screaming as she fought to slow down before the track ended in empty air.",
+      "likes": 2300,
+      "companyId": "1234",
+      "commentIds": []
     },
     {
       "id": "MNOP",
-      "title": "Super Smash Bros. Ultimate",
-      "category": "fighting",
-      "rating": null,
-      "companyId": "1234"
+      "title": "The Last Vanguard",
+      "author": "Sienna Brooks",
+      "genre": "fighting",
+      "content": "The siege of the Obsidian Fortress had lasted forty days, but it had ended in a single, devastating hour when the gates were breached from within. Now, the grand halls were silent, filled only with the smell of smoke and the steady patter of cold rain falling through the shattered stained-glass ceiling. Kael stood alone in the center of the rain-slicked courtyard, the sole surviving knight of the High Vanguard. His armor was dented, his shield split in two, but his grip on his ancestral claymore remained absolute. The heavy iron felt cold and grounding against his bleeding palms. From the shadows of the archway, the enemy advance guard finally emerged—a dozen elite warriors clad in dark, jagged armor, led by the executioner known as the Iron Wolf. They didn't rush him; they simply encircled him, recognizing the lethal grace of a cornered master. Kael drew a deep breath, letting the freezing air clear his exhaustion. 'You are fighting for a dead king,' the Iron Wolf scoffed, his voice echoing off the stone walls. Kael adjusted his stance, raising the massive blade into a classic high guard. 'I do not fight for the king,' Kael replied, his voice calm and steady. 'I fight for the ground he stood on.' The Iron Wolf lunged forward, throwing a brutal horizontal strike that would have decapitated a lesser man. Kael parried, the impact sending vibrations up his arms, and spun inside the executioner's guard, his blade carving a clean arc through the air. For the next twenty minutes, the courtyard became a blur of steel, blood, and desperate movement. Kael fought not with the hope of survival, but with the terrifying freedom of a man who has nothing left to lose.",
+      "likes": 3120,
+      "companyId": "1234",
+      "commentIds": ["USER_CMT_03"]
     },
     {
       "id": "QRST",
-      "title": "The Legend of Zelda: Breath of the Wild",
-      "category": "adventure",
-      "rating": null,
-      "companyId": "1234"
-    },
-    {
-      "id": "UVWX",
-      "title": "Nintendo Switch Sports",
-      "category": "sports",
-      "rating": null,
-      "companyId": "1234"
-    },
-    {
-      "id": "YZ01",
-      "title": "Splatoon 3",
-      "category": "action",
-      "rating": null,
-      "companyId": "1234"
-    },
-    {
-      "id": "YZ02",
-      "title": "Halo Infinite",
-      "category": "action",
-      "rating": null,
-      "companyId": "2345"
-    },
-    {
-      "id": "YZ03",
-      "title": "God of War Ragnarök",
-      "category": "action",
-      "rating": null,
-      "companyId": "3456"
-    },
-    {
-      "id": "YZ05",
-      "title": "Street Fighter 6",
-      "category": "fighting",
-      "rating": 10,
-      "companyId": "5678"
-    },
-    {
-      "id": "YZ06",
-      "title": "The Crew Motorfest",
-      "category": "racing",
-      "rating": null,
-      "companyId": "6789"
-    },
-    {
-      "title": "Metroid 4",
-      "category": "adventure",
-      "rating": null,
+      "title": "Whispers of the Wildwood",
+      "author": "Oliver Thorne",
+      "genre": "adventure",
+      "content": "The elders of the border village always warned that the Wildwood did not possess geography; it possessed intent. It was an ancient, sentient ecosystem that shifted its roots when no one was looking, erasing paths and swallowing travelers whole. Lyra had ignored their warnings because her younger brother had wandered past the tree line, and she was the only one fast enough to track him before nightfall. Now, three hours into the canopy, the daylight had died completely, replaced by a suffocating, violet twilight. The forest was dead quiet, save for a faint, melodic whispering that seemed to drift down from the highest branches. Lyra stopped, her hand tightening around her hunting knife. The whispers grew louder, suddenly shifting from white noise into a highly familiar, heartbreaking sound: it was her mother’s voice, calling her name from a dark thicket to her left. 'Lyra, over here, I'm lost,' the voice pleaded. For a second, her instinct screamed at her to run toward it. But she forced her feet to stay glued to the ground. Her mother had died five years ago. The Wildwood was mimicking her memory, using auditory hallucinations to lure her off the bioluminescent trail of sapphire mushrooms she had been following. 'You won't have me,' she whispered back into the dark. She turned her back on the voice, focusing on the faint, glowing fungi that marked the true forest floor. As she stepped forward, the forest realized its deception had failed; the trees groaned as their roots violently twisted across the dirt, attempting to physically block her path. Lyra broke into a sprint, diving through closing gaps of thorns, driven forward by the sudden, real cry of her brother just ahead.",
+      "likes": 4500,
       "companyId": "1234",
-      "id": "JMDDUEb"
+      "commentIds": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "USER_CMT_01",
+      "storyId": "ABCD",
+      "user": "LoreSeeker",
+      "userProfilePicture": "https://example.com",
+      "text": "The concept of an atmospheric timeline captured via sonic ghosts is brilliant. I loved how Silas navigated using the ancient screams!"
+    },
+    {
+      "id": "USER_CMT_04",
+      "storyId": "ABCD",
+      "user": "BookWorm99",
+      "userProfilePicture": "https://example.com",
+      "text": "The ending description of the quartz spires humming with a low frequency gave me absolute chills. Incredible world-building."
+    },
+    {
+      "id": "USER_CMT_02",
+      "storyId": "EFGH",
+      "user": "SkyCaptain",
+      "userProfilePicture": "https://example.com",
+      "text": "As a sci-fi fan, the description of pushing a rickety wooden skyship through a stratosphere thundercloud was incredibly tense and rewarding."
+    },
+    {
+      "id": "USER_CMT_05",
+      "storyId": "IJKL",
+      "user": "SpeedDemon",
+      "userProfilePicture": "https://example.com",
+      "text": "The pace of this racing sequence is insane! Bouncing off the wall of the Arasaka Tower to win at the last millisecond was perfect."
+    },
+    {
+      "id": "USER_CMT_03",
+      "storyId": "MNOP",
+      "user": "BladeMaster",
+      "userProfilePicture": "https://example.com",
+      "text": "A classic dark fantasy stand. That line—'I fight for the ground he stood on'—defines the ultimate tragic hero archetype perfectly."
     }
   ]
 }
